@@ -3,7 +3,6 @@
 Hello! I am Ana! 💕
 </h1>
 
-## 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anasimao93/">
